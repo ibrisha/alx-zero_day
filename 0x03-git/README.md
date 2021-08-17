@@ -1,1 +1,1 @@
-this is more about git .you should commit every changes
+this is more about git .you should commit every changes if you are happy with it
