@@ -1,1 +1,1 @@
-this is more about git
+this is more about git .you should commit every changes
